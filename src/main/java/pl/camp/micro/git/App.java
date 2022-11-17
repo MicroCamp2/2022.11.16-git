@@ -7,5 +7,7 @@ public class App {
         System.out.println("cos 2 !!!");
 
         System.out.println("cos nowego !!");
+
+        System.out.println("cos z bugfixingu !!");
     }
 }
