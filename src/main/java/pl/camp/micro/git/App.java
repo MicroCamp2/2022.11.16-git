@@ -5,5 +5,7 @@ public class App {
         System.out.println("Cos !!!");
 
         System.out.println("cos 2 !!!");
+
+        System.out.println("cos nowego !!");
     }
 }
