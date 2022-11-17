@@ -11,5 +11,7 @@ public class App {
         System.out.println("cos innego co zrobil kolega");
 
         System.out.println("cos z bugfixingu !!");
+
+        System.out.println("jaks nowa zmiana do cherry pick !!");
     }
 }
